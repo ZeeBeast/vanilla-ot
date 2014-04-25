@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Haba" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="98" head="0" body="0" legs="0" feet="0" addons="2"/>
+	<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. If you don't know where you want to go say {travel}."/>
+		<parameter key="travel_destinations" value="sea serpent,31942,31043,6,0,yes;passage,31942,31043,6,0,yes;"/>
+	</parameters>
+</npc>

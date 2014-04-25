@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Thorgrin" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="185" max="185"/>
+    <look type="66" head="0" body="0" legs="0" feet="0" addons="0"/>
+	<voices>
+		<voice text="Ask me for a passage..." interval2="100" margin="1" yell="no"/>
+	</voices>
+	<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. If you don't know where you want to go say {travel}."/>
+		<parameter key="travel_destinations" value="cormaya,33310,31988,15,0,no;kazordoon,32659,31957,15,0,no;"/>
+	</parameters>
+</npc>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Zoltan" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="130" head="95" body="94" legs="95" feet="57" addons="0"/>
+
+<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|, do you seek Ferumbras? If so just ask my {permission} and I shall let you pass.."/>
+		<parameter key="travel_destinations" value="permission,32121,32710,7,0,no"/>
+	</parameters>
+
+</npc>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Adrian Monk" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="57" head="0" body="0" legs="0" feet="0" addons="0"/>
+	<voices>
+	<voice text="Welcome to Elderon, the most glorious of towns and home of the great King Adyssian!" interval2="120" margin="1" yell="no"/>
+	</voices>
+</npc>

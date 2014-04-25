@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Apartment Manager" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="154" head="79" body="40" legs="42" feet="39" addons="0"/>
+    <parameters>
+        <parameter key="message_greet" value="Leave me alone... I've got work to do!"/>
+    </parameters>
+</npc>

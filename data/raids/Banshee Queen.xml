@@ -1,0 +1,14 @@
+<raid>
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="The people of thais are reporting screaming coming from the north east." />
+  <announce delay="30000" type="Event" message="The banshee queen is leading her army to thais!" />
+  <announce delay="75000" type="Event" message="The banshee queen and her army have arrived in thais!" />
+  
+  <!--Single Spawns-->
+  <singlespawn delay="75000" name="Banshee queen" x="32368" y="32175" z="7" />
+  
+  <!--Area Spawns-->
+  <areaspawn delay="75000" fromx="32331" fromy="32182" fromz="7" tox="32426" toy="32261" toz="7">
+	<monster name="Banshee" amount="50" />
+  </areaspawn>
+</raid>

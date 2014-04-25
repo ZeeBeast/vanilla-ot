@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raid>
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="Tiquandas Revenge has return to Port Hope." />
+  <announce delay="30000" type="Event" message="Tiquandas Revenge has been summoned." />
+  <!--Single Spawns-->
+  <singlespawn delay="30000" name="Tiquandas Revenge" x="32847" y="32792" z="7" />
+  <!--Area Spawns-->
+</raid>

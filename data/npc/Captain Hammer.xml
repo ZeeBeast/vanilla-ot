@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Hammer" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="98" head="0" body="0" legs="0" feet="0" addons="2"/>
+	<voices>
+		<voice text="Passages to VIP towns of Ethno and Gengia. You may also travel back to Thais if need be." interval2="100" margin="1" yell="no"/>
+	</voices>
+	<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hey |PLAYERNAME|. If you want to know where to go, simply request {travel}."/>
+		<parameter key="travel_destinations" value="ethno,33889,32286,6,0,yes;gengia,33909,32496,6,0,yes;thais,32310,32210,6,0,no;"/>
+	</parameters>
+</npc>

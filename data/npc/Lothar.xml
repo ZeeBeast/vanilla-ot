@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Lothar" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="130" head="0" body="109" legs="128" feet="95" addons="0"/>
+	<voices>
+		<voice text="I enjoy the peace and solitude out here. You're welcome to be my guest as long as you behave in a quiet and tolerable manner." interval2="120" margin="1" yell="no"/>
+	</voices>
+	<parameters>
+		<parameter key="module_keywords" value="1" />
+		<parameter key="module_shop" value="1" />
+		<parameter key="keywords" value="arkarra, tamed, item, carrot on a stick, giant shrimp, harness, hunting horn, leather whip, reins, tin key, slingshot;" />
+		<parameter key="keyword_reply1" value="The stampor in the back? She's my friend, but she came to me out of her own free will. I must admit I've never managed to tame any other stampor. I heard that there's some sort of voodoo magic which would allow you to summon a stampor, but I'm not a voodoo expert, so I wouldn't know."/>
+		<parameter key="keyword_reply2" value="Well, usually you can tame animals with the help of a few simple items. If you've found such an item, show it to me and I might be able to help you with instructions on the taming process." />
+		<parameter key="keyword_reply3" value="Well? Which item have you found and require advice for?" />
+		<parameter key="keyword_reply4" value="I heard that terror birds really love carrots. I'd try waving it in front of one of those." />
+		<parameter key="keyword_reply5" value="Oh, that's one of the favourite foods of a crustacea gigantica. I think you can just distract it with the food and quickly jump on its back." />
+		<parameter key="keyword_reply6" value="That looks like it might fit a draptor. If you can ever get close enough to one to catch it, I'd simply try putting it on while whispering calming words." />
+		<parameter key="keyword_reply7" value="The sound of a hunting horn is often intimidating to forest creatures, but I heard that wild boars actually like it." />
+		<parameter key="keyword_reply8" value="Try catching a midnight panther using that one. Don't hit the panther, mind you. Just let the whip crack in the air - I think that will work." />
+		<parameter key="keyword_reply9" value="You could probably ride a black sheep with these. Talk to it gently and carefully put on the reins." />
+		<parameter key="keyword_reply10" value="Hm! Now that's an interesting one. Where did you get that from? I could imagine it winds something up in a factory, but it's definitely not a normal animal." />
+		<parameter key="keyword_reply11" value=" That might be the only way to tame a bear. It has a sensitive spot right between the ears which will calm it down, but you're not strong enough for simple acupressure. Using the slingshot is likely to help you with that." />	
+	</parameters>
+</npc>

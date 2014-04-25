@@ -1,0 +1,1 @@
+use special mirror (obtained from eroth) on orb with uid 5026 and add storage value

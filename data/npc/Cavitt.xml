@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Anthony" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="152" head="77" body="113" legs="132" feet="94" addons="3"/>
+<voices>
+<voice text="Come beat my meat, cough, BUY my meat!" interval2="120" margin="1" yell="no"/>
+<voice text="Daily cut, big, not too salty, meat! Just ask about our happy ending special!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="trade;" />
+        <parameter key="keyword_reply1" value="I can offer you my meat, what you got to {trade}?"/>
+<parameters>
+<parameter key="module_shop" value="1" />
+<parameter key="shop_buyable" value="egg,2695,2;meat,2666,5;salmon,2668,4;ham,2671,10;dragon ham,2672,15;" />
+        <parameter key="message_greet" value="Hey, |PLAYERNAME|. Isn't this OT great! Wanna {trade} for my meat?"/>
+        <parameter key="message_farewell" value="And thank you, |PLAYERNAME|. Don't worry, my lips are sealed."/>
+		<parameter key="message_walkaway" value="Wait |PLAYERNAME|! I swear that's never happened to me before!" />
+		<parameter key="message_sendtrade" value="Check out what I got... I'm sure you'll enjoy it." />
+</parameters>
+</npc>

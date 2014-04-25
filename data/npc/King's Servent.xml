@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="King's Servent" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="128" head="95" body="2" legs="2" feet="57" addons="0"/>
+    <parameters>
+        <parameter key="message_greet" value="Hello good sir... may I assist you with anything?"/>
+        <parameter key="message_farewell" value="Good day to you sir."/>
+		<parameter key="message_walkaway" value="Good day to you sir."/>
+        <parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="job;"/>
+        <parameter key="keyword_reply1" value="I am the faithful servent of King Adyssian. His guests are also my priority. But quite frankly, you can leave me the hell alone."/>
+    </parameters>
+</npc>

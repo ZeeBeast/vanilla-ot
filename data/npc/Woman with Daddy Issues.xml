@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="A Woman with Daddy Issues" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="138" head="60" body="92" legs="90" feet="95" addons="0"/>
+<voices>
+<voice text="I'm so lonely..." interval2="120" margin="1" yell="no"/>
+<voice text="~yawn~" interval2="100" margin="1" yell="no"/>
+</voices>
+	<parameters>
+        <parameter key="message_greet" value="Hello handsome... looking for a {date}?"/>
+		<parameter key="message_sendtrade" value="My rates are high, but satisfaction is guarenteed."/>
+		<parameter key="message_walkaway" value="Come back to see me, big boy."/>
+        <parameter key="message_farewell" value="I had a great time... if you get lonely agian, you know where to find me."/>
+        <parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="date;job;name;"/>
+        <parameter key="keyword_reply1" value="Now you're talking my language. Why don't we get out of here so we can make a {trade}... if you know what I mean." />
+        <parameter key="keyword_reply2" value="Oral, hand, front door, back door... whatever you want baby. Providing you have the gold, of course."/>
+		<parameter key="keyword_reply3" value="My name is whatever you want it to be."/>
+		<parameter key="module_shop" value="1"/>
+        <parameter key="shop_buyable" value="AIDS,2677,1000;herpes,2670,1750;gonorrhea,2667,1300;chlamydia,2692,2000;syphilis,2679,1500;warts,7909,2300;hepatitis,2687,1800;"/>
+        <parameter key="shop_sellable" value=""/>
+    </parameters>
+</npc>

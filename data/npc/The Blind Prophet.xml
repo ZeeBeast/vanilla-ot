@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="The Blind Prophet" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="117" head="0" body="0" legs="0" feet="0" addons="0"/>
+<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_farewell" value="Bye." />
+		<parameter key="message_walkaway" value="Bye." />
+		<parameter key="message_greet" value="Harrr, landlubber wha'd ya want?"/>
+		<parameter key="travel_destinations" value="passage,33025,32580,6,0,no"/>
+	</parameters>
+</npc>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Captain Breezelda" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="142" head="97" body="23" legs="28" feet="76" addons="2"/>
+	<voices>
+		<voice text="Passages to Carlin, Venore and Thais." interval2="100" margin="1" yell="no"/>
+	</voices>
+	<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. If you don't know where you want to go say {travel}."/>
+		<parameter key="travel_destinations" value="thais,32310,32210,6,0,no;carlin,32387,31820,6,0,no;venore,32954,32022,6,0,no"/>
+	</parameters>
+</npc>

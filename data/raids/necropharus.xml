@@ -1,0 +1,7 @@
+<raid>
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="Necropharus has made his return the world once again! Find him near the darashia necromancer quest." /> 
+
+  <!--Single Spawns-->
+  <singlespawn delay="1000" name="Necropharus" x="33044" y="32401" z="10" />
+</raid>

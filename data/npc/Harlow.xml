@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Harlow" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="151" head="116" body="77" legs="113" feet="0" addons="0"/>
+	<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_farewell" value="Good bye." />
+		<parameter key="message_walkaway" value="Good bye." />
+		<parameter key="message_greet" value="Greetings, daring adventurer. I can take you back to {vengoth}."/>
+		<parameter key="travel_destinations" value="vengoth,32857,31549,7,0,no;"/>
+	</parameters>
+</npc>

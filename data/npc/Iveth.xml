@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Iveth" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="270" head="78" body="79" legs="80" feet="1" addons="3"/>
+<voices>
+<voice text="Hey, need some furniture for your house? Come to the Iveth's Furnitue Store!" interval2="100" margin="1" yell="no"/>
+</voices>
+	<parameters>
+		<parameter key="message_greet" value="Welcome to the Iveth's, |PLAYERNAME|! As a matter of fact, I am the property of Modesto. Can I interest you in a {trade}!"/>
+		<parameter key="message_farewell" value="Good bye, |PLAYERNAME|. I enjoyed our chat."/>
+		<parameter key="message_walkaway" value="You're just like my husband... always walking away! Only had I hooked up with Adyssian when I had the chance... I could be a queen now!"/>
+		<parameter key="message_sendtrade" value="Take a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture."/>
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="job;modesto;"/>
+		<parameter key="keyword_reply1" value="I run this store and sell furniture... no help from my husband considering he can't even get it up anymore! that pinche sustantivo masculino!"/>
+		<parameter key="keyword_reply2" value="My god, everyone knows now! I knew something was wrong when he wouldn't touch me anymore. sob sob. My mother warned me to never marry a mexican clown... now look at me!"/>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="
+			blue bed kit,7904,800;
+			green bed kit,7905,800;
+			yellow bed kit,7907,800;
+			red bed kit,7906,800;
+			wepon rack kit,6114,900;
+			armor rack kit,6115,900;
+			oven kit,6372,800;
+			bookcase kit,6373,700;
+			trunk kit,3938,1000;
+			bamboo drawer kit,3936,400;
+			telescope kit,3935,700;
+			rocking horse kit,3934,300;
+			christmas tree package,3933,500;
+			barrel kit,3932,120;
+			indoor plant kit,3931,80;
+			goblin statue kit,3930,500;
+			large amphora kit,3929,500;
+			minotaur statue kit,3928,500;
+			knight statue kit,3927,500;
+			piano kit,3926,2000;
+			rocking chair kit,3925,250;
+			table lamp kit,3924,350;
+			globe kit,3923,500;
+			birdcage kit,3922,500;
+			harp kit,3921,500;
+			bamboo table kit,3919,1000;
+			locker kit,3918,300;
+			pendulum clock kit,3917,750;
+			dresser kit,3916,180;
+			dresser kit,3915,180;
+			tusk table kit,3914,250;
+			stone table kit,3913,250;
+			coal basin kit,3912,250;
+			round table kit,3911,250;
+			square table kit,3910,250;
+			big table kit,3909,300;
+			small table kit,3908,200;
+			ivory chair kit,3906,250;
+			tusk chair kit,3905,250;
+			green cushioned chair kit,3904,400;
+			red cushioned chair kit,3903,400;
+			sofa chair kit,3902,550;
+			wooden chair kit,3901,150;
+			trunk table kit,3920,250;
+			trunk chair kit,3907,250;
+			chimney kit,8692,2000;
+		"/>
+    </parameters>
+</npc>

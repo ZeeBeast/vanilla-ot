@@ -1,0 +1,14 @@
+<raid>
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="Angry Boars are invading Thais, run for your lives!" />
+  <announce delay="40000" type="Event" message="The Mother Boar is on her way to protect her children, prepare yourselves!" />
+  <announce delay="75000" type="Event" message="The Mother Boar has arrived." />
+  
+  <!--Single Spawns-->
+  <singlespawn delay="75000" name="Mother Boar" x="32368" y="32175" z="7" />
+  
+  <!--Area Spawns-->
+  <areaspawn delay="15000" fromx="32331" fromy="32182" fromz="7" tox="32426" toy="32261" toz="7">
+	<monster name="Angry Boar" amount="75" />
+  </areaspawn>
+</raid>

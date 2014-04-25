@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Spartacus" script="data/npc/scripts/spartacus.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="143" head="3" body="77" legs="78" feet="39" addons="1"/>
+    <parameters>
+        <parameter key="message_greet" value="Greetings |PLAYERNAME|. I'm the leader of the {mercenary} guild. I also sell {potions} for them." />
+		<parameter key="message_farewell" value="Don't forget to buy your mercenary potions..."/>
+		<parameter key="message_walkaway" value="Don't forget to buy your mercenary potions..." />
+  	</parameters>
+</npc>

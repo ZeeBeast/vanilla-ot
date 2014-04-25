@@ -1,0 +1,13 @@
+<raid>
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="Roc is making his way to port hope!" />
+  <announce delay="40000" type="Event" message="Roc has arrived in port hope, Help protect the townspeople!" />
+  
+  <!--Single Spawns-->
+  <singlespawn delay="40000" name="Roc" x="32627" y="32751" z="7" />
+  
+  <!--Area Spawns-->
+  <areaspawn delay="10000" fromx="32578" fromy="32770" fromz="7" tox="32657" toy="32740" toz="7">
+	<monster name="Terror bird" amount="75" />
+  </areaspawn>
+</raid>

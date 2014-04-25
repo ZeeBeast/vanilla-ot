@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Guard Golddust" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="131" head="79" body="79" legs="79" feet="79" addons="0"/>
+	<voices>
+		<voice text="Request permission to pass through this gate." interval2="100" margin="1" yell="no"/>
+	</voices>
+	<parameters>
+		<parameter key="message_greet" value="Be greeted, warrior |PLAYERNAME|. Would you like to {pass} the Southern Gate?"/>
+		<parameter key="module_keywords" value="1" />
+		<parameter key="keywords" value="pass;"/>
+		<parameter key="keyword_reply1" value="I can let you pass to the Southern Plains of {Percia} if you have VIP, or you may pass to {Elderon}... so where would you like to go warrior |PLAYERNAME|?" />
+		<parameter key="message_farewell" value="Farewell, warrior |PLAYERNAME|."/>
+		<parameter key="message_walkaway" value="Farewell, warrior |PLAYERNAME|." />
+		<parameter key="module_travel" value="1"/>
+		<parameter key="travel_destinations" value="percia,1012,1045,6,0,yes;elderon,1012,1041,6,0,no;"/>
+	</parameters>
+</npc>

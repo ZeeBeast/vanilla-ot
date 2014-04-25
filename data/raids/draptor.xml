@@ -1,0 +1,18 @@
+<raid>
+<announce delay="1000" type="event" message="The drakens and their tamed draptors are making their way to Zzaion!" />
+<announce delay="5000" type="event" message="Drakens and Draptors have taken over Zzaion! Hurry and help!" />
+  <!--Area Spawns-->
+  <areaspawn delay="60000" fromx="33109" fromy="31335" fromz="7" tox="33319" toy="31387" toz="7">
+    <monster name="Draptor" amount="15" />
+    <monster name="Draken Warmaster" amount="28" />
+    <monster name="Draken Elite" amount="28" />
+    <monster name="Draken Spellweaver" amount="32" />
+	<monster name="Draken Abomination" amount="35" />
+  </areaspawn>
+
+
+
+
+
+
+</raid>

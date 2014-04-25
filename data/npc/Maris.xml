@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Maris" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="185" max="185"/>
+    <look type="151" head="78" body="51" legs="47" feet="0" addons="0"/>
+	<voices>
+		<voice text="Ask me for a passage..." interval2="100" margin="1" yell="no"/>
+	</voices>
+	<parameters>
+		<parameter key="module_travel" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. If you don't know where you want to go say {travel}."/>
+		<parameter key="travel_destinations" value="fenrock,32563,31313,7,0,no;mistrock,32640,31439,7,0,no;"/>
+	</parameters>
+</npc>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raids>
+<raid name="Zombie Tokens" file="Zombie Tokens.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Random Rooms" file="Random Rooms.xml" interval2="30" margin="1000" enabled="no"/> 
+
+<raid name="Zulazza the Corruptor" file="Zulazza the Corruptor.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Morgaroth" file="Morgaroth.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="RatsThais" file="ratsthais.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="OrcsThais" file="OrcsThais.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Banshee Queen" file="banshee queen.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Angry Boars" file="Angry Boars.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Barbarian" file="barbarian.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Elfs" file="elfs.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Draptors" file="draptor.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Demodras" file="demodras.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Ferumbras" file="ferumbras.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Ghazbaran" file="ghazbaran.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Halloween Hare" file="halloween.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Hornedfox" file="Hornedfox.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Nomads" file="nomads.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Oldwidow" file="the old widow.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Orshabaal" file="Orshabaal.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Pirates" file="pirates.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Quaras" file="quaras.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Roc" file="Roc.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Scarabs" file="scarabs.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="tiquandas revenge" file="tiquandas revenge.xml" interval2="30" margin="1000" enabled="no"/> 
+<raid name="Undead Army" file="undead army.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="undeadcavebear" file="undeadcavebear.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Undead Darashia" file="undead darashia.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Sir Valorcrest" file="Sir Valorcrest.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Zevelong Duskbringer" file="Zevelong Duskbringer.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Necropharus" file="necropharus.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Diblis The Fair" file="Diblis The Fair.xml" interval2="30" margin="1000" enabled="no"/>
+<raid name="Arachir the Ancient One" file="Arachir the Ancient One.xml" interval2="30" margin="1000" enabled="no"/>
+</raids>

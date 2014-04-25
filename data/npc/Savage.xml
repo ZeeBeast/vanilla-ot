@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Savage" script="default.lua" walkinterval="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="134" head="81" body="88" legs="0" feet="88" addons="3"/>
+	<parameters>
+		<parameter key="module_outfit" value="1"/>
+		<parameter key="message_greet" value="Sup |PLAYERNAME|. Want any {addons} or {outfits} by chance?" />
+		<parameter key="outfits" value="pirate outfit;assassin outfit;beggar outfit;shaman outfit;norseman outfit;nightmare outfit;jester outfit;brotherhood outfit;demonhunter outfit;yalaharian outfit;warmaster outfit;wayfarer outfit;first citizen;second citizen;first hunter;second hunter;first mage;second mage;first knight;second knight;first nobleman;second nobleman;first summoner;second summoner;first warrior;second warrior;first barbarian;second barbarian;first druid;second druid;first wizard;second wizard;first oriental;second oriental;first pirate;second pirate;first assassin;second assassin;first beggar;second beggar;first shaman;second shaman;first norseman;second norseman;first nightmare;second nightmare;first jester;second jester;first brotherhood;second brotherhood;first demonhunter;second demonhunter;first yalaharian;second yalaharian;first warmaster;second warmaster;first wayfarer;second wayfarer"/>			
+		<!-- OUTFITS -->
+		<parameter key="outfit1" value="12,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit2" value="13,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit3" value="14,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit4" value="15,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit5" value="16,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit6" value="17,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit7" value="18,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit8" value="19,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit9" value="20,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit10" value="21,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit11" value="22,0,no;9971,1,gold ingot"/>
+		<parameter key="outfit12" value="23,0,no;9971,1,gold ingot"/>
+		
+		<!-- ADDONS -->
+		<parameter key="outfit13" value="1,1,no;5878,100,minotaur leathers"/>
+		<parameter key="outfit14" value="1,2,no;5890,100,chicken feathers;5902,50,honey combs"/>	
+		<parameter key="outfit15" value="2,1,no;5947,1,elane's crossbow;5876,100,lizard leathers;5948,100,red dragon leathers;5891,5,enchanted chicken wings;5887,1,royal steel;5888,1,hell steel;5889,1,draconian steel"/>	
+		<parameter key="outfit16" value="2,2,no;5875,1,sniper gloves"/>	
+		<parameter key="outfit17" value="3,1,no;2182,1,snakebite rod;2186,1,moonlight rod;2185,1,necrotic rod;2181,1,terra rod;2183,1,hailstorm rod;2190,1,wand of vortex;2191,1,wand of dragonbreath;2188,1,wand of decay;2189,1,wand of cosmic energy;2187,1,wand of inferno;5904,10,magic sulphur;5809,1,soul stone"/>	
+		<parameter key="outfit18" value="3,2,no;5903,1,ferumbras' hat"/>
+		<parameter key="outfit19" value="4,1,no;5880,100,iron ores;5892,1,huge chunk of crude iron"/>	
+		<parameter key="outfit20" value="4,2,no;5893,100,perfect behemoth fangs;11422,1,damaged steel helmet;5885,1,warrior's sweat;5887,1,royal steel"/>	
+		<parameter key="outfit21" value="5,1,no;2160,100,crystal coins"/>	
+		<parameter key="outfit22" value="5,2,no;2160,100,crystal coins"/>	
+		<parameter key="outfit23" value="6,1,no;5878,100,minotaur leathers"/>	
+		<parameter key="outfit24" value="6,2,no;5894,70,bat wings;5911,20,red pieces of cloth;5883,40,ape furs;5922,35,holy orchids;5879,10,giant spider silks;5881,60,lizard scales;5882,40,red dragon scales;2392,3,fire swords;5905,30,vampire dusts"/>	
+		<parameter key="outfit25" value="7,1,no;5925,100,hardened bones;5899,100,turtle shells;5884,1,fighting spirit;5919,1,dragon claw"/>	
+		<parameter key="outfit26" value="7,2,no;5880,100,iron ores;5887,1,royal steel"/>	
+		<parameter key="outfit27" value="8,1,no;5884,1,fighting spirit;5885,1,warrior's sweat;5910,50,green pieces of cloth;5911,50,red pieces of cloth;5886,10,spools of yarn"/>	
+		<parameter key="outfit28" value="8,2,no;5880,100,iron ores;5892,1,huge chunk of crude iron;5893,50,perfect behemoth fangs;5876,50,lizard leathers"/>	
+		<parameter key="outfit29" value="9,1,no;5897,50,wolf paws;5896,50,bear paws"/>	
+		<parameter key="outfit30" value="9,2,no;5906,100,demon dusts;5939,1,waterhose;5940,1,ceiron's wolf tooth chain"/>	
+		<parameter key="outfit31" value="10,1,no;2536,1,medusa shield;2492,1,dragon scale mail;2488,1,crown legs;2123,1,ring of the sky"/>	
+		<parameter key="outfit32" value="10,2,no;5922,50,holy orchids"/>	
+		<parameter key="outfit33" value="11,1,no;5945,1,mermaid comb"/>	
+		<parameter key="outfit34" value="11,2,no;5883,100,ape furs;5895,100,fish fins;5891,2,enchanted chicken wings;5912,100,blue pieces of cloth"/>
+		<parameter key="outfit35" value="12,1,no;6098,100,eye patches;6126,100,peg legs;6097,100,hooks"/>	
+		<parameter key="outfit36" value="12,2,no;11424,1,brutus bloodbeard's hat;11425,1,lethal lissy's shirt;11426,1,ron the ripper's sabre;6102,1,deadeye devious' eye patch;"/>	
+		<parameter key="outfit37" value="13,1,no;5912,50,blue pieces of cloth;5910,50,green pieces of cloth;5911,50,red pieces of cloth;5913,50,brown pieces of cloth;5914,50,yellow pieces of cloth;5909,50,white pieces of cloth;5886,10,spools of yarn"/>	
+		<parameter key="outfit38" value="13,2,no;5804,1,nose ring;5930,10,behemoth claws"/>	
+		<parameter key="outfit39" value="14,1,no;5878,50,minotaur leathers;5921,30,heaven blossoms;5913,20,brown pieces of cloth;5894,10,bat wings"/>	
+		<parameter key="outfit40" value="14,2,no;5883,100,ape furs;2160,2,crystal coins;6107,1,simon the beggar's favorite staff"/>	
+		<parameter key="outfit41" value="15,1,no;5810,5,pirate voodoo doll;2322,5,voodoo doll;5015,1,mandrake"/>	
+		<parameter key="outfit42" value="15,2,no;3966,5,banana staff;3967,5,tribal mask"/>	
+		<parameter key="outfit43" value="16,1,no;7290,5,shard"/>	
+		<parameter key="outfit44" value="16,2,no;7290,10,shard"/>	
+		<parameter key="outfit45" value="17,1,no;6500,1500,demonic essence"/>	
+		<parameter key="outfit46" value="17,2,no;6500,1500,demonic essence"/>	
+		<parameter key="outfit47" value="18,1,no;5912,50,blue pieces of cloth;5913,50,brown pieces of cloth;5914,50,yellow pieces of cloth;5909,50,white pieces of cloth"/>	
+		<parameter key="outfit48" value="18,2,no;5912,50,blue pieces of cloth;5910,50,brown pieces of cloth;5911,50,yellow pieces of cloth;5912,50,white pieces of cloth"/>	
+		<parameter key="outfit49" value="19,1,no;6500,1500,demonic essence"/>	
+		<parameter key="outfit50" value="19,2,no;6500,1500,demonic essence"/>	
+		<parameter key="outfit51" value="20,1,no;5905,30,vampire dusts;5906,40,demon dusts;5954,50,demon horns;6500,50,demonic essence;2151,100,talons"/>	
+		<parameter key="outfit52" value="20,2,no;5906,50,demon dusts;6500,200,demonic essence;2151,100,talons"/>	
+		<parameter key="outfit53" value="21,1,no;9955,1,vampiric crest"/>	
+		<parameter key="outfit54" value="21,2,no;9955,1,vampiric crest"/>	
+		<parameter key="outfit55" value="22,1,no;11116,1,serpent crest"/>	
+		<parameter key="outfit56" value="22,2,no;11115,1,tribal crest"/>	
+		<parameter key="outfit57" value="23,1,no;12657,1,old cape"/>	
+		<parameter key="outfit58" value="23,2,no;12656,1,sedge hat"/>
+	</parameters>
+</npc>

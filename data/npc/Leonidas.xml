@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Leonidas" script="data/npc/scripts/vipseller.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="266" head="0" body="0" legs="0" feet="0" addons="0"/>
+<voices>
+<voice text="Selling VIP items... Come check them out!" interval2="2500" margin="1" yell="yes"/>
+<voice text="Browse around... when you're ready to buy, just tell me the name." interval2="500" margin="1" yell="no"/>
+</voices>
+<parameters>
+	<parameter key="message_greet" value="Hello |PLAYERNAME|, if you want to buy an item here just tell me the name."/>
+	<parameter key="message_farewell" value="See you later."/>
+	<parameter key="message_walkaway" value="Goodbye!" />
+</parameters>
+</npc>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="King's Maid" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="136" head="76" body="86" legs="86" feet="96" addons="0"/>
+    <parameters>
+        <parameter key="message_greet" value="Sorry, I serve King Adyssian alone."/>
+        <parameter key="message_farewell" value="Farewell sir."/>
+		<parameter key="message_walkaway" value="Farewell sir."/>
+        <parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="job;"/>
+        <parameter key="keyword_reply1" value="I am the the King's maid... I do ANYTHING and EVERYTHING that he asks of me."/>
+    </parameters>
+</npc>

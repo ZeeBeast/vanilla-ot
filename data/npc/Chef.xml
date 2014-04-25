@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Chef" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="96" head="0" body="0" legs="0" feet="0" addons="0"/>
+<voices>
+<voice text="I wanna make sweet love..." interval2="100" margin="1" yell="no"/>
+</voices>
+    <parameters>
+        <parameter key="message_greet" value="Hello children. What can I get for ya?"/>
+        <parameter key="message_farewell" value="Good day children."/>
+		<parameter key="message_walkaway" value="Good day children."/>
+        <parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="food;south park;black;"/>
+        <parameter key="keyword_reply1" value="Sorry children... all the food I cook here is for the King. He don't like no free loaders eatin' his food, no more than he would like me caressing his wife's sweet tender ass."/>
+		<parameter key="keyword_reply2" value="As a matter of fact, I am from South Park. I moved here because some people over there weren't running things the way I wanted them to. I sure do miss the children over there though... But I don't miss those racist ass white folk over there!"/>
+		<parameter key="keyword_reply3" value="Well, I was black, but my good friend Mr. Jackson gave me some lotion that seems to have lightened my skin color. I'd whoop his ass for doing this to me, but he died several years ago. And good riddens to him!"/>
+	</parameters>
+</npc>

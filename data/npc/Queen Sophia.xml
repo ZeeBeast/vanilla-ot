@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Queen Sophia" script="data/npc/scripts/default.lua" walkinterval="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="331" head="96" body="94" legs="79" feet="115" addons="0"/>
+<parameters>
+		<parameter key="message_farewell" value="Thank you for your loyalty, warrior. You may excuse yourself now."/>
+		<parameter key="message_greet" value="Please show your king, my husband, respect and address him by his title... for he has surely earned it."/>
+		<parameter key="message_walkaway" value="Thank you for your loyalty, warrior. You may excuse yourself now."/>
+	</parameters>
+</npc>

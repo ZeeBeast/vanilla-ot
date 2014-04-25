@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<raid>
+	<areaspawn delay="100" fromx="32778" fromy="31160" fromz="10" tox="32788" toy="31171" toz="10">
+		<monster name="Rift Brood" amount="8" />
+	</areaspawn>
+	<singlespawn delay="200" name="Azerus2" x="32781" y="31167" z="10"/>
+</raid>

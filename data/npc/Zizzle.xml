@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Zizzle" script="data/npc/scripts/quests/zizzle.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="114" head="0" body="0" legs="0" feet="0" />
+<parameters>
+		<parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="" />
+        <parameter key="message_greet" value="Ah our human alliez have finally arrived! I've already feared zat ze emperor'z forzez had caught you. Your rezilienze and prowezz are imprezzive." />
+        <parameter key="message_farewell" value="Bye."/>
+		<parameter key="message_walkaway" value="Bye." />
+	</parameters>
+</npc>

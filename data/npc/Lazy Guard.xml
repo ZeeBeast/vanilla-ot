@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Lazy Guard" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+    <health now="100" max="100"/>
+    <look type="131" head="19" body="19" legs="19" feet="19" addons="0"/>
+<voices>
+<voice text="Damn I hate my job." interval2="120" margin="1" yell="no"/>
+<voice text="Complain, complain, complain... does anyone know how to grow the hell up and quit crying about every little thing that happens to them?"/>
+</voices>
+    <parameters>
+        <parameter key="message_greet" value="What would you like to report now?"/>
+        <parameter key="message_farewell" value="Your report will be filed and handled in the order of which it was received!"/>
+        <parameter key="message_walkaway" value="Your report will be filed and handled in the order of which it was received!"/>
+		<parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="murder;rape;arson;theft;slander;assault;power abuse;job;tax evasion;"/>
+        <parameter key="keyword_reply1" value="Well, he probably had it coming to 'em anyway."/>
+		<parameter key="keyword_reply2" value="Well, based on what you're wearing, it looks like you were asking for it."/>
+		<parameter key="keyword_reply3" value="Hell, if I wasn't a guard I had burned that dump down myself."/>
+		<parameter key="keyword_reply4" value="Maybe if you weren't such a noob you'd take better care of your items."/>
+		<parameter key="keyword_reply5" value="Maybe if you carried yourself with a little integrity, people wouldn't have a reason to say those things about you."/>
+		<parameter key="keyword_reply6" value="If I got a gold peice everytime someone came in here complaing about getting attacked..."/>
+		<parameter key="keyword_reply7" value="Maybe you need to make better friends, quit botting, stay out of other people's spawns, quit being such a noob, or got more pro, than maybe you wouldn't get so abused.... cry baby."/>
+		<parameter key="keyword_reply8" value="Maybe if you worried more about your job than you do worrying about mine, then you'd leave me the hell alone and then I might be able to get to all of these petty complaints this town seems to feel is so damn important!"/>
+		<parameter key="keyword_reply9" value="Tell me, who the hell likes to pay taxes anyway? Now quit your snitchin' and be off with ya!"/>
+    </parameters>
+</npc>

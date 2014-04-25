@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Justin" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="277" head="0" body="0" legs="0" feet="0" addons="0"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="message_greet" value="Wuzzup |PLAYERNAME|. If you wanna get wasted or need a little bite to sober you up before you head home then {trade} with me." />
+		<parameter key="shop_buyable" value="Rum,2015,3;Jagermeister,2009,45;shrimp,2670,10;roll,2690,5;brown bread,2691,4;peanut,7910,1;bread,2689,4;ham,2671,8;cheese,2696,4;meat,2666,5" />
+	</parameters>
+</npc>

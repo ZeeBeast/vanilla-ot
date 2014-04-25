@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Boozer" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="128" head="76" body="20" legs="116" feet="76" addons="0"/>
+<voices>
+<voice text="Come have a drink in the Hard Rock Racing Track." interval2="120" margin="1" yell="no"/>
+</voices>
+<parameters>
+        <parameter key="module_shop" value="1" />
+        <parameter key="message_greet" value="Welcome to the Hard Rock Racing Track, |PLAYERNAME|."/>
+        <parameter key="message_farewell" value="You'll be back."/>
+		<parameter key="message_walkaway" value="You'll be back." />
+		<parameter key="message_sendtrade" value="Sure, take what you want." />
+		<parameter key="shop_buyable" value="dragon ham,2672,20;brown mushroom,2789,10;bread,2689,4;ham,2671,8;cheese,2696,4;meat,2666,5" />
+</parameters>
+</npc>

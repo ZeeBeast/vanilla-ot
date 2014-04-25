@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Darren" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="146" head="95" body="0" legs="40" feet="116" addons="0"/>
+<voices>
+<voice text="Don't my chest look sexy with this shirt on?" interval2="120" margin="1" yell="no"/>
+<voice text="Buy any of my items, and I'll rub my nipples for you!" interval2="100" margin="1" yell="no"/>
+</voices>
+<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="message_farewell" value="I'm glad you we were able to get to know one another."/>
+		<parameter key="message_walkaway" value="Wait, come back! I didn't mean you touch you there!" />
+		<parameter key="message_sendtrade" value="I'm sorry, is my chest distracting you?" />
+		<parameter key="message_greet" value="As a matter of fact, I do work out. Now if you can staring at my body, feel free to {trade}." />
+		<parameter key="shop_buyable" value="vial of oil,2006,100,11;scyzoryk,10516,10000;scyzoryk,10511,10000;scyzoryk,10513,10000;blessed wooden stake,5942,10000;obsidian knife,5908,10000;shovel,2554,50;fishing rod,2580,150;rope,2120,50;machete,2420,40;golden backpack,9774,20;golden bag,9775,5;pick,2553,50;scythe,2550,50;machete,2420,40;torch,2050,2;bottle,2007,3,1;document,1952,12;book,1958,15;parchment,1948,8;scroll,1949,5;plate,2035,6;present box,1990,10;watch,2036,20;worm,3976,1;bucket,2005,1,4;candlestick,2047,2;crowbar,2416,260;crowbar,10223,1000;rust remover,9930,100" />
+	</parameters>
+</npc>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="King Adyssian" script="data/npc/scripts/promotion.lua" walkinterval="3000" floorchange="0">
+<health now="100" max="100"/>
+<look type="332" head="21" body="87" legs="107" feet="95" addons="0"/>
+	<parameters>
+        <parameter key="message_greet" value="I greet thee, my loyal subject |PLAYERNAME|. If you'd like, I can tell you of the {history} of {elderon}."/>
+        <parameter key="message_farewell" value="Farewell, |PLAYERNAME|!"/>
+		<parameter key="message_walkaway" value="Farewell, |PLAYERNAME|!"/>
+        <parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="history;elderon;savage;razkan;tupac;shadow assassin;radec;tybeirius;don juan;yoshimitsu;grave stomper;elder gong;synergy;sophia;children;syntax;zyphrus;adyssian;"/>
+        <parameter key="keyword_reply1" value="I am your sovereign, King Adyssian. I am the creator and founder of this great town, Elderon. There was a time, long ago, where I had to stand with my brothers {Savage}, {Razkan}, {Tybeirius}, {Radec}, {Tupac}, {Don Juan}, {Yoshimitsu}, {Shadow Assassin}, and our weakest link, {Grave Stomper}, to fight against the tyranny of {Elder Gong}, {Synergy}, and those who's names were not important enough to remember. Together, we demolished them until they all left this land to power abuse elsewhere."/>
+		<parameter key="keyword_reply2" value="Shortly after the great war, my brother and I settled here, in this great land we now call Elderon, built with my very own blood, sweat, and tears. I settled down with my queen, {Sophia} and had two {children}. I have long since retired from the battle field, but my legacy lives on, as does the bond that I share with my brothers! We give thanks to our gods, {Syntax} and {Zyphrus}, as our heroic battle will be remembered for all eternity!"/>
+		<parameter key="keyword_reply3" value="Ah, the best knight I know, behind me of course. We alone fought together against enemies that would have normally taken several to conquer!"/>
+		<parameter key="keyword_reply4" value="Razkan... the greatest sorcerer this land has ever seen. Better yet, the best we will ever see."/>
+		<parameter key="keyword_reply5" value="By far the most loyal of us all. Sometimes, we saw him more as a father than a brother."/>
+		<parameter key="keyword_reply6" value="He is dearly missed. He began a journey over a year ago, and no one has seen him since."/>
+		<parameter key="keyword_reply7" value="Ah, Radec... my closest friend. What he lacked in wealth, he made up in sacrifice. None of us gave more of our lives than the great Radec. In tribute, we named the local soccer field after him... for it too gets trampled on."/>
+		<parameter key="keyword_reply8" value="The fearless Tybeirius... the most wisest of Paladins and my one true blood brother. He is rarely seen today however... as his alcoholism and womanizing has gotten the best of him."/>
+		<parameter key="keyword_reply9" value="Don Juan... an epic knight in his own right. A hardened veteran and a dear friend. There are too few like him."/>
+		<parameter key="keyword_reply10" value="Another brother lost in the wind. Wherever he is, our thoughts go out to him as we long for his arrival."/>
+		<parameter key="keyword_reply11" value="Ah... our weakest link. But no slouch, I tell you what. His loyalty would give Tupac a run for his money... though he has given his manhood to a young maiden."/>
+		<parameter key="keyword_reply12" value="A fierce competitor and a true warrior. Would have loved to have been allied with him, but his destiny chose elsewhere."/>
+		<parameter key="keyword_reply13" value="The most unorthodox of all leaders... but a leader nonetheless. Never liked him much, but respect him I did."/>
+		<parameter key="keyword_reply14" value="Yes, my queen, my flame. She is to be shown great respect... for if it wasn't for her, you would surely be working in the mines!"/>
+		<parameter key="keyword_reply15" value="My children are my only reason for life. You might have seen them working at the depot. To keep them from getting spoiled, I've tought them how to earn a living. Now as long as I can keep my son off the pipe and my daughter off the pole, then I've done quite well as a father."/>
+		<parameter key="keyword_reply16" value="Yes, the god of scripting. For without his grace and mercy, none of us would even be here... nor would anything that you see. He has scripted more than anyone could ever imagine!"/>
+		<parameter key="keyword_reply17" value="Zyphrus, a god that left us to create new worlds... he has since been replaced by the active god of Logic. It is he that keeps us from dying of boredom!"/>
+		<parameter key="keyword_reply18" value="Watch your tounge on how you address me! Oh, you mean my spirit. Some say that it has evolved into a god... but without any supporting evidence, who is to say?"/>
+	</parameters>
+</npc>

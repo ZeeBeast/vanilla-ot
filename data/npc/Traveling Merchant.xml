@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Traveling Merchant" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="146" head="99" body="102" legs="122" feet="115" addons="2"/>
+<parameters>
+<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="Vial of blood,2006,1000;Holy tible,1970,25000;" />
+        <parameter key="message_greet" value="Ah, a customer! Be greeted, |PLAYERNAME|!"/>
+        <parameter key="message_farewell" value="Farewell, |PLAYERNAME|, may the winds guide your way."/>
+		<parameter key="message_walkaway" value="Farewell, |PLAYERNAME|, may the winds guide your way." />
+</parameters>
+</npc>

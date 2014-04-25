@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Legend Troy" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="143" head="3" body="77" legs="78" feet="39" addons="3"/>
+<voices>
+<voice text="Do you feel like you have what it takes to fight for glory and become a legend?"/>
+</voices>
+    <parameters>
+		<parameter key="module_keywords" value="1"/>
+        <parameter key="message_greet" value="Greetings, challenger |PLAYERNAME|. The arena is closed at this time."/>
+        <parameter key="message_farewell" value="..."/>
+		<parameter key="message_walkaway" value="..."/>
+	</parameters>
+</npc>

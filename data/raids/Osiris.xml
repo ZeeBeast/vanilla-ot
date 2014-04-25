@@ -1,0 +1,13 @@
+<raid>
+  <!--Announcements-->
+  <announce delay="1000" type="Event" message="Osiris the pharo is making his way to ankrahmun!." />
+  <announce delay="30000" type="Event" message="Osiris has made his way to ankrahmun, help defend the townspeople!" />
+  
+  <!--Single Spawns-->
+  <singlespawn delay="30000" name="Osiris" x="33152" y="32745" z="7" />
+  
+  <!--Area Spawns-->
+  <areaspawn delay="30000" fromx="33082" fromy="32765" fromz="7" tox="33251" toy="32728" toz="7">
+	<monster name="Mummy" amount="150" />
+  </areaspawn>
+</raid>

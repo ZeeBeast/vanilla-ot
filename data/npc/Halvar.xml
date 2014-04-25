@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Halvar" script="data/npc/scripts/quests/halvar.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="143" head="3" body="77" legs="78" feet="39" addons="1"/>
+    <parameters>
+		<parameter key="module_keywords" value="1" />
+        <parameter key="keywords" value="job;mission;death;potion;weapon;rules;prices;general" />
+        <parameter key="keyword_reply1" value="My job is to explain about the rules and to get the fee from the competitors." />
+        <parameter key="keyword_reply2" value="Well I would rather call it an 'Ultimate Challenge' than a mission." />
+        <parameter key="keyword_reply3" value="It would be better not to die! In every pit there is an emergency exit to the south. If you die in a pit... well... your corpse and backpack are gone, so enter at your own risk." />
+        <parameter key="keyword_reply4" value="Like I said: Everything is allowed. Go in, kill monsters and try not to get killed by your own." />
+        <parameter key="keyword_reply5" value="You can use whatever you want but be aware that you might lose items and your backpack if you die." />
+        <parameter key="keyword_reply6" value="What do you want to know? Something about the three different {difficulties}, the {general} rules or the {prices}? Maybe you also want to know what happens when you {die}?" />
+        <parameter key="keyword_reply7" value="The fee depends on the difficulty you choose. If you are a Greenhorn you have to pay 1000 gold, as a Scrapper you have to pay 5000 gold and as a Warlord the participation fee is 10000 gold." />
+        <parameter key="keyword_reply8" value="Just look it up on TibiaWikia if you don't know..." />
+        <parameter key="message_greet" value="Hello competitor! Do you want to {fight} in the arena or shall I explain the {rules} first?" />
+        <parameter key="message_farewell" value="Bye."/>
+		<parameter key="message_walkaway" value="Bye." />
+	</parameters>
+</npc>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="JR" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="128" head="0" body="112" legs="88" feet="113" addons="3"/>
+<voices>
+<voice text="Wanna talk politics or religion? Make sure you vote this year, you lazy people!" interval2="120" margin="1" yell="no"/>
+<voice text="I know everything... Of Course I know that brown mushrooms aren't a fruit!" interval2="100" margin="1" yell="no"/>
+</voices>
+	<parameters>
+		<parameter key="module_keywords" value="1"/>
+        <parameter key="keywords" value="politics;religion;"/>
+        <parameter key="keyword_reply1" value="Thanks to the wisdom of King Adyssian, I'm activly a Libertarian. I suggest you look into it if you give a damn about liberty and freedom!"/>
+		<parameter key="keyword_reply2" value="Atheism is the only logical way to go. If you talk to my good friend Mikey, he'll have more info on the subject."/>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="banana,2676,2;grapes,2681,3;melon,2682,8;orange,2675,5;pumpkin,2683,10;cherry,2679,1;grapes,2681,3;pear,2673,4;plum,8839,3;raspberry,8840,1;red apple,2674,3;sample of venorean spice,4849,200;"/>
+        <parameter key="message_greet" value="Welcom to JR's, |PLAYERNAME|. Smaller government, lesser taxes, maximum freedom - That's the libertarian way! So do you want to {trade}, talk {politics}, or talk {religion}?"/>
+        <parameter key="message_farewell" value="Don't forget to vote, |PLAYERNAME|... see ya around."/>
+		<parameter key="message_walkaway" value="There is no god, but bless your travels anyway, |PLAYERNAME|."/>
+		<parameter key="message_sendtrade" value="Oh, you just want some fruit. Fine, just keep bending over as the government screws you in the ass."/>
+	</parameters>
+</npc>

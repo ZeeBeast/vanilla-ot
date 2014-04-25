@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Estrella" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+<health now="100" max="100"/>
+<look type="137" head="113" body="63" legs="120" feet="119" addons="3"/>
+<voices>
+<voice text="I love my mommy, Sophia!" interval2="100" margin="1" yell="no"/>
+<voice text="I love my daddy, Adyssian!" interval2="120" margin="1" yell="no"/>
+<voice text="Welcome to Elderon's post office!" interval2="90" margin="1" yell="no"/>
+</voices>
+	<parameters>
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="sophia;adyssian;brett;"/>
+		<parameter key="keyword_reply1" value="Yes, that's my mommy. She's done a great job raising me, for I will never give my flower away until I have given my hand away in marriage. So I would appreciate it if you quit trying to make advance on me, for if I were to inform my father..."/>
+		<parameter key="keyword_reply2" value="My father, the great King Adyssian himself. I will never accept a mans request for my hand until they have gotten permission from my father. But don't hold your breath... I'm confident you don't have what it takes!"/>
+		<parameter key="keyword_reply3" value="Ah yes, my hardened brother. Almost as protective as my father... the only difference is, he has no reputation to maintain, so he's not as hesitant as my father is. Remember that."/>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="label,2599,1;parcel,9081,15;letter,2597,8;" />
+		<parameter key="message_greet" value="Why hello |PLAYERNAME| and welcome to Elderon's post office."/>
+		<parameter key="message_farewell" value="Who is next?"/>
+		<parameter key="message_walkaway" value="Who is next?" />
+		<parameter key="message_sendtrade" value="Here. Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the {receiver} in the first line and the name of the {city} in the second line." />
+	</parameters>
+</npc>
