@@ -1466,180 +1466,522 @@
 	<movevent type="DeEquip" itemid="8878" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Voltage Armor -->
 	<movevent type="Equip" itemid="8879" slot="armor" level="60" event="function" value="onEquipItem">
-		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8879" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Swamplair Armor -->
 	<movevent type="Equip" itemid="8880" slot="armor" level="60" event="function" value="onEquipItem">
-		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8880" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Fireborn Giant Armor -->
 	<movevent type="Equip" itemid="8881" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8881" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Earthborn Titan Armor -->
 	<movevent type="Equip" itemid="8882" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8882" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Windborn Colossus Armor -->
 	<movevent type="Equip" itemid="8883" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8883" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Oceanborn Leviathan Armor -->
 	<movevent type="Equip" itemid="8884" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8884" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Divine Plate -->
 	<movevent type="Equip" itemid="8885" slot="armor" level="75" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8885" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Molten Plate -->
 	<movevent type="Equip" itemid="8886" slot="armor" level="75" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8886" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Frozen Plate -->
 	<movevent type="Equip" itemid="8887" slot="armor" level="75" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8887" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Master Archer's Armor -->
 	<movevent type="Equip" itemid="8888" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8888" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Skullcracker Armor -->
 	<movevent type="Equip" itemid="8889" slot="armor" level="85" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8889" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Robe of the Underworld -->
 	<movevent type="Equip" itemid="8890" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8890" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Paladin Armor -->
 	<movevent type="Equip" itemid="8891" slot="armor" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8891" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Ethno Coat -->
 	<movevent type="Equip" itemid="8892" slot="armor" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8892" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Yalahari Armor -->
 	<movevent type="Equip" itemid="9776" slot="armor" level="80" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
-	</movevent>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
+		</movevent>
 	<movevent type="DeEquip" itemid="9776" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Zaoan Armor -->
 	<movevent type="Equip" itemid="11301" slot="armor" level="50" event="function" value="onEquipItem">
-		<vocation id="3"/>
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="11301" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Spellweaver's Robe -->
 	<movevent type="Equip" itemid="11355" slot="armor" level="60" event="function" value="onEquipItem">
-		<vocation id="1"/>
-		<vocation id="2"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
 		<vocation id="6" showInDescription="0"/>
-	</movevent>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
+		</movevent>
 	<movevent type="DeEquip" itemid="11355" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Zaoan Robe -->
 	<movevent type="Equip" itemid="11356" slot="armor" level="60" event="function" value="onEquipItem">
-		<vocation id="1"/>
-		<vocation id="2"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="11356" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Elite Draken Mail-->
 	<movevent type="Equip" itemid="12607" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="3"/>
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="12607" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Royal Scale Robe -->
 	<movevent type="Equip" itemid="12643" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="1"/>
-		<vocation id="2"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="12643" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Royal Draken Mail -->
 	<movevent type="Equip" itemid="12642" slot="armor" level="100" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="12642" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Ornate Chestplate -->
 	<movevent type="Equip" itemid="15406" slot="armor" level="200" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15406" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Depth Lorica -->
 	<movevent type="Equip" itemid="15407" slot="armor" level="150" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15407" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Calopteryx Cape -->
 	<movevent type="Equip" itemid="15489" slot="armor" level="80" event="function" value="onEquipItem">
-		<vocation id="1"/>
-		<vocation id="2"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15489" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Gill Coat -->
 	<movevent type="Equip" itemid="18399" slot="armor" level="150" event="function" value="onEquipItem">
-		<vocation id="1"/>
-		<vocation id="2"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="18399" slot="armor" event="function" value="onDeEquipItem"/>
 		<!-- Prismatic Armor -->
 	<movevent type="Equip" itemid="18404" slot="armor" level="120" event="function" value="onEquipItem">
-		<vocation id="3"/>
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="18404" slot="armor" event="function" value="onDeEquipItem"/>
 
@@ -1647,26 +1989,62 @@
 	<!-- Legs -->
 		<!-- Knight Legs -->
 	<movevent type="Equip" itemid="2477" slot="legs" event="function" value="onEquipItem">
-		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="2477" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Crown Legs -->
 	<movevent type="Equip" itemid="2488" slot="legs" event="function" value="onEquipItem">
-		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="2488" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Golden Legs -->
 	<movevent type="Equip" itemid="2470" slot="legs" event="function" value="onEquipItem">
-		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="2470" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Dwarven Legs -->
@@ -1674,46 +2052,122 @@
 	<movevent type="DeEquip" itemid="2504" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Terra Legs -->
 	<movevent type="Equip" itemid="7885" slot="legs" level="40" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7885" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Magma Legs -->
 	<movevent type="Equip" itemid="7894" slot="legs" level="40" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7894" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Lightning Legs -->
 	<movevent type="Equip" itemid="7895" slot="legs" level="40" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7895" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Glacier Kilt -->
 	<movevent type="Equip" itemid="7896" slot="legs" level="40" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="7896" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Ranger Legs -->
 	<movevent type="Equip" itemid="8923" slot="legs" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8923" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Yalahari Leg Piece -->
 	<movevent type="Equip" itemid="9777" slot="legs" level="80" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="9777" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Zaoan Legs -->
@@ -1724,31 +2178,83 @@
 	<movevent type="DeEquip" itemid="15490" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Depth Ocrea -->
 	<movevent type="Equip" itemid="15409" slot="legs" level="130" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15409" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Ornate Legs -->
 	<movevent type="Equip" itemid="15412" slot="legs" level="185" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15412" slot="legs" event="function" value="onDeEquipItem"/>
 		<!-- Gill Legs -->
 	<movevent type="Equip" itemid="18400" slot="legs" level="150" event="function" value="onEquipItem">
-		<vocation id="1"/>
-		<vocation id="2"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="18400" slot="legs" event="function" value="onDeEquipItem"/>
 
 		<!-- Prismatic Legs -->
 	<movevent type="Equip" itemid="18405" slot="legs" level="150" event="function" value="onEquipItem">
-		<vocation id="3"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
 		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="18405" slot="legs" event="function" value="onDeEquipItem"/>
 
@@ -1756,114 +2262,302 @@
 	<!-- Shields -->
 		<!-- Spellbook -->
 	<movevent type="Equip" itemid="6120" slot="shield" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="6120" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Rainbow Shield -->
 	<movevent type="Equip" fromid="8905" toid="8909" slot="shield" level="100" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" fromid="8905" toid="8909" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Enlightenment -->
 	<movevent type="Equip" itemid="8900" slot="shield" level="30" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8900" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Warding -->
 	<movevent type="Equip" itemid="8901" slot="shield" level="40" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8901" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Mind Control -->
 	<movevent type="Equip" itemid="8902" slot="shield" level="50" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8902" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Lost Souls -->
 	<movevent type="Equip" itemid="8903" slot="shield" level="60" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8903" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellscroll of Prophecies -->
 	<movevent type="Equip" itemid="8904" slot="shield" level="70" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8904" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Dark Mysteries -->
 	<movevent type="Equip" itemid="8918" slot="shield" level="80" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="8918" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Snake God's Wristguard -->
 	<movevent type="Equip" itemid="12647" slot="shield" level="100" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="12647" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Shield of Corruption -->
 	<movevent type="Equip" itemid="12644" slot="shield" level="80" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="12644" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Depth Scutum -->
 	<movevent type="Equip" itemid="15411" slot="shield" level="120" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15411" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Ornate Shield -->
 	<movevent type="Equip" itemid="15413" slot="shield" level="130" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="15413" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Ancient Arcana -->
 	<movevent type="Equip" itemid="16112" slot="shield" level="150" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
 		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="16112" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Prismatic Shield -->
 	<movevent type="Equip" itemid="18410" slot="shield" level="150" event="function" value="onEquipItem">
-		<vocation id="4"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
+		<vocation id="5" showInDescription="0"/>
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
 		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>
 	<movevent type="DeEquip" itemid="18410" slot="shield" event="function" value="onDeEquipItem"/>
 		<!-- Spellbook of Vigilance -->
 	<movevent type="Equip" itemid="18401" slot="shield" level="130" event="function" value="onEquipItem">
-		<vocation id="1"/>
+		<vocation id="1" showInDescription="0"/>
+		<vocation id="2" showInDescription="0"/>
+		<vocation id="3" showInDescription="0"/>
+		<vocation id="4" showInDescription="0"/>
 		<vocation id="5" showInDescription="0"/>
-		<vocation id="2"/>
-		<vocation id="6" showInDescription="0"/>	
+		<vocation id="6" showInDescription="0"/>
+		<vocation id="7" showInDescription="0"/>
+		<vocation id="8" showInDescription="0"/>
+		<vocation id="9" showInDescription="0"/>
+		<vocation id="10" showInDescription="0"/>
+		<vocation id="11" showInDescription="0"/>
+		<vocation id="12" showInDescription="0"/>
+		<vocation id="13" showInDescription="0"/>
+		<vocation id="14" showInDescription="0"/>
+		<vocation id="15" showInDescription="0"/>
+		<vocation id="16" showInDescription="0"/>
 	</movevent>	
 	<movevent type="DeEquip" itemid="18401" slot="shield" event="function" value="onDeEquipItem"/>
 
