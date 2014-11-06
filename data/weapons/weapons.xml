@@ -647,7 +647,9 @@
 		<!-- Stomper -->
 	<melee id="8929" level="100" unproperly="1" event="function" value="default">
 		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
+		<vocation id="8"/>
+		<vocation id="12"/>
+		<vocation id="16"/>
 	</melee>
 		<!-- Dark Trinity Mace -->
 	<melee id="8927" event="function" value="default"/>
@@ -666,7 +668,9 @@
 	<melee id="7757" level="35" unproperly="1" event="function" value="default"/>
 	<melee id="7758" level="50" unproperly="1" event="function" value="default">
 		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
+		<vocation id="8"/>
+		<vocation id="12"/>
+		<vocation id="16"/>
 	</melee>
 		<!-- Ice -->
 	<melee id="7773" level="20" unproperly="1" event="function" value="default"/>
@@ -675,7 +679,9 @@
 	<melee id="7776" level="35" unproperly="1" event="function" value="default"/>
 	<melee id="7777" level="50" unproperly="1" event="function" value="default">
 		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
+		<vocation id="8"/>
+		<vocation id="12"/>
+		<vocation id="16"/>
 	</melee>
 		<!-- Earth -->
 	<melee id="7864" level="20" unproperly="1" event="function" value="default"/>
@@ -684,7 +690,9 @@
 	<melee id="7867" level="35" unproperly="1" event="function" value="default"/>
 	<melee id="7868" level="50" unproperly="1" event="function" value="default">
 		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
+		<vocation id="8"/>
+		<vocation id="12"/>
+		<vocation id="16"/>
 	</melee>
 		<!-- Energy -->
 	<melee id="7879" level="20" unproperly="1" event="function" value="default"/>
@@ -693,12 +701,16 @@
 	<melee id="7882" level="35" unproperly="1" event="function" value="default"/>
 	<melee id="7883" level="50" unproperly="1" event="function" value="default">
 		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
+		<vocation id="8"/>
+		<vocation id="12"/>
+		<vocation id="16"/>
 	</melee>
 		<!-- Drachaku -->
 	<melee id="11308" level="55" unproperly="1" event="function" value="default"> 
 		<vocation id="4"/>
-		<vocation id="8" showInDescription="0"/>
+		<vocation id="8"/>
+		<vocation id="12"/>
+		<vocation id="16"/>
 	</melee>
 
 	<!-- Bows and Crossbows -->
@@ -711,87 +723,121 @@
 		<!-- Arbalest -->
 	<distance id="5803" level="75" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Modified Crossbow -->
 	<distance id="8849" level="45" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Chain Bolter -->
 	<distance id="8850" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Ironworker -->
 	<distance id="8853" level="80" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Devileye -->
 	<distance id="8852" level="100" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Royal Crossbow -->
 	<distance id="8851" level="130" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Silkweaver Bow -->
 	<distance id="8857" level="40" unproperly="1" event="function" value="default"> 
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Composite Hornbow -->
 	<distance id="8855" level="50" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Yol's Bow -->
 	<distance id="8856" level="60" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Elethriel's Elemental Bow -->
 	<distance id="8858" level="70" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Warsinger Bow -->
 	<distance id="8854" level="80" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
 	</distance>
 		<!-- Shimmer Bow -->
     <distance id="13873" level="40" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
     </distance>
 		<!-- Hive Bow -->
     <distance id="15643" level="85" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
     </distance>
 		<!-- Ornate Crossbow -->
     <distance id="15644" level="50" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
     </distance>
 		<!-- Thorn Spitter -->
     <distance id="16111" level="150" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
     </distance>
 		<!-- Crystal Crossbow -->
 	<distance id="18453" level="90" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
     </distance>
 		<!-- Mycological Bow -->
 	<distance id="18454" level="105" unproperly="1" event="function" value="default">
 		<vocation id="3"/>
-		<vocation id="7" showInDescription="0"/>
+		<vocation id="7"/>
+		<vocation id="11"/>
+		<vocation id="15"/>
     </distance>
 
  	<!-- Ammunition -->
